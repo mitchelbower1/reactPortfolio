@@ -1,0 +1,7 @@
+.projectImage {
+  padding: 10px;
+  height: 260px;
+  width: 310px;
+  border-radius: 20%;
+  cursor: pointer;
+}

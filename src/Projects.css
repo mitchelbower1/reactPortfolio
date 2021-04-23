@@ -1,0 +1,26 @@
+.projectsGridContainer {
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.projectsGridTitle {
+  font-size: 64px;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 480px 280px;
+  grid-template-rows: auto;
+  grid-gap: 60px;
+}
+
+.imageSource {
+  width: 50px;
+}
